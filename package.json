@@ -1,0 +1,11 @@
+{
+  "name": "rocketchat-clubhouse-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for sending automated messages from clubhouse workspace to a rocketchat channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meric Melike Softa",
+  "license": "ISC"
+}
